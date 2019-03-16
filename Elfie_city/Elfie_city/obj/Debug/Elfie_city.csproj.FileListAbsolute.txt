@@ -1,0 +1,48 @@
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.Properties.Resources.resources
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.GenerateResource.Cache
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.CoreCompileInputs.cache
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe.config
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\bin\Debug\Elfie_city.pdb
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.exe
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.pdb
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csprojResolveAssemblyReference.cache
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormMain.resources
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormBuildings.resources
+C:\Kredek\krystian_wolszczak\lab1\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormTraining.resources
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Interop.WMPLib.dll
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\AxInterop.WMPLib.dll
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.ResolveComReference.cache
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormMain.resources
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormBuildings.resources
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormTraining.resources
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.Properties.Resources.resources
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.GenerateResource.Cache
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.CoreCompileInputs.cache
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe.config
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\bin\Debug\Elfie_city.pdb
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\bin\Debug\Interop.WMPLib.dll
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\bin\Debug\AxInterop.WMPLib.dll
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.exe
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.pdb
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe.config
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\bin\Debug\Elfie_city.exe
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\bin\Debug\Elfie_city.pdb
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\bin\Debug\Interop.WMPLib.dll
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Interop.WMPLib.dll
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.ResolveComReference.cache
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormMain.resources
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormBuildings.resources
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormMenu.resources
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormTraining.resources
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.Properties.Resources.resources
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.GenerateResource.Cache
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.exe
+C:\Users\Krystian\Desktop\działa ale stare\Elfie_city\Elfie_city\obj\Debug\Elfie_city.pdb
+C:\Kredek\krystian_wolszczak\lab2\Elfie_city\Elfie_city\obj\Debug\Elfie_city.FormMenu.resources
